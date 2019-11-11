@@ -1,0 +1,3 @@
+This was a hobby project done for the goodday spread a smile campaign.
+
+You can find the live site at http://britannia.herokuapp.com
