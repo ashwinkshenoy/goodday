@@ -38,7 +38,7 @@ gem 'twitter'
 
 gem 'figaro'
 
-gem 'nokogiri', '1.6.8'
+gem 'nokogiri', '1.10.10'
 
 group :production do
   gem 'rails_12factor'
